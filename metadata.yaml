@@ -1,2 +1,8 @@
 versions:
+
+#latest version
+ - sha: fc29ce13d26989e806db186c570cba38f2799757
+ changeNotes: add categorey to template
+
   - sha: 14455b231b4610191e3c69a26b8ac827b851d52f
+ changeNotes: initial publish
